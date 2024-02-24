@@ -1,0 +1,15 @@
+{
+    "welcome": "Willkommen",
+    "greeting": "Hallo, {{name}}!",
+    "categories": "Kategorien",
+    "providers": "Anbieter",
+    "home": "Startseite",
+    "blog": "Blog",
+    "myCourses": "Meine Kurse",
+    "settings": "Einstellungen",
+    "language": "Sprache",
+    "english": "Englisch",
+    "french": "Französisch",
+    "german": "Deutsch"
+  }
+  

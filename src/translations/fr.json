@@ -1,0 +1,15 @@
+{
+    "welcome": "Bienvenue",
+    "greeting": "Bonjour, {{name}}!",
+    "categories": "Catégories",
+    "providers": "Fournisseurs",
+    "home": "Accueil",
+    "blog": "Blog",
+    "myCourses": "Mes Cours",
+    "settings": "Paramètres",
+    "language": "Langue",
+    "english": "Anglais",
+    "french": "Français",
+    "german": "Allemand"
+  }
+  
